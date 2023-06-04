@@ -1,0 +1,5 @@
+model,augmentation,phase,epoch,loss,accuracy,date,transformations
+model,augmentation,phase,epoch,loss,accuracy,date,transformations
+model,augmentation,phase,epoch,loss,accuracy,date,transformations
+ORCA__Size-640x640_Epoch-1_Images-349_Batch-1__random_distortion.pth,random_9_operations,train,1,0.1230567221858013,0.9729608661465785,2023-04-24 00:08:49.452856,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion' 'color_transfer' 'inpainting']
+ORCA__Size-640x640_Epoch-1_Images-349_Batch-1__random_distortion.pth,random_9_operations,test,1,0.07514118997214687,0.9755200754947159,2023-04-24 00:08:49.452856,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion' 'color_transfer' 'inpainting']
