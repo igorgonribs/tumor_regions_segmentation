@@ -7,7 +7,7 @@
 /sourcecode/OCDC/.ipynb_checkpoints/
 /.idea/
 __pycache__
-/datasets/*/results*/**
+/datasets/*/results/testing/bones/**
 /datasets/*/testing/**
 /datasets/*/training/lesion_annotations/**
 /datasets/*/training/normal/**
