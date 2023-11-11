@@ -93,7 +93,7 @@ class BONE_CHANNELSDataset(Dataset):
             path_img_target, path_mask_target, fname_target = self.samples[target_img_idx-1]
             target_img = load_pil_image(path_img_target, False, self.color_model)
 
-        if self.epoch > 1 and augmentation_operations is not None and 'inpainting' in augmentation_operations:
+        '''if self.epoch > 1 and augmentation_operations is not None and 'inpainting' in augmentation_operations:
 
             # Prepares the GAN model            
             sourcecode_dir = os.path.dirname(os.path.abspath('.'))
@@ -107,7 +107,7 @@ class BONE_CHANNELSDataset(Dataset):
             last_model_name = get_model_list(checkpoint_path, "gen", iteration=430000)
             
             checkpoint = torch.load(last_model_name) if torch.cuda.is_available() else torch.load(last_model_name, map_location=lambda storage, loc: storage)
-            GAN_model.load_state_dict(checkpoint)
+            GAN_model.load_state_dict(checkpoint)'''
 
         if len(self.used_images) <= 1:
             logger.info("Epoch: '{}' augmentation {} {}".format(self.epoch, self.augmentation_strategy,
@@ -116,7 +116,7 @@ class BONE_CHANNELSDataset(Dataset):
         #x, y = data_augmentation(image, mask, self.img_input_size, self.img_output_size, should_augment)
         #x, y = data_augmentation(image, mask, self.img_input_size, self.img_output_size, False)
         x, y, used_augmentations = data_augmentation(image, target_img, mask, self.img_input_size, self.img_output_size, augmentation_operations, GAN_model)
-        return x, y, fname, image.size
+        return x, y, fname, image.size, used_augmentations
 
 
 def load_dataset(img_dir, img_input_size, dataset_type):
