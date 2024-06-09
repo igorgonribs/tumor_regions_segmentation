@@ -1,0 +1,402 @@
+model,augmentation,phase,epoch,loss,accuracy,date,transformations
+
+ORCA__Size-640x640_Epoch-1_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,1,0.0834101576888149,0.973339205258222,2024-05-28 10:36:50.177199,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-1_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,1,0.1244648537269376,0.9670052153488686,2024-05-28 10:36:50.177698,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-2_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,2,0.06358477708902832,0.9766354142084405,2024-05-28 10:49:09.446758,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-2_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,2,0.12516247335387842,0.9675306333344561,2024-05-28 10:49:09.446758,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-3_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,3,0.058119564882030975,0.9785129196579385,2024-05-28 11:01:37.666225,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-3_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,3,0.1157124542334149,0.970106769430226,2024-05-28 11:01:37.666225,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-4_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,4,0.05489864923276114,0.9793161753061642,2024-05-28 11:13:53.459571,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-4_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,4,0.12392117137466718,0.9705049080684256,2024-05-28 11:13:53.459571,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-5_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,5,0.05208700116344732,0.980369809003628,2024-05-28 11:25:59.626775,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-5_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,5,0.12869361985940486,0.9713370171908677,2024-05-28 11:25:59.626775,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-6_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,6,0.05085673974530804,0.9807053684543899,2024-05-28 11:38:08.504659,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-6_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,6,0.13415732501066643,0.9713857769143995,2024-05-28 11:38:08.504659,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-7_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,7,0.04853241181664394,0.9815693041099464,2024-05-28 11:50:13.904915,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-7_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,7,0.13093039254128033,0.9716638183593757,2024-05-28 11:50:13.904915,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-8_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,8,0.047722885825646086,0.9818666122751881,2024-05-28 12:02:25.456031,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-8_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,8,0.12591855537652136,0.9718988405424972,2024-05-28 12:02:25.456031,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-9_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,9,0.04825976658804973,0.9817082119746126,2024-05-28 12:14:36.441902,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-9_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,9,0.12808964576708667,0.97189576773808,2024-05-28 12:14:36.441902,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-10_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,10,0.046448465452613885,0.9822563057370338,2024-05-28 12:26:39.258590,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-10_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,10,0.13184176862504782,0.9719422070733429,2024-05-28 12:26:39.258590,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-11_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,11,0.04483779274898512,0.9825365182364116,2024-05-28 12:38:48.157880,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-11_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,11,0.13829768191147918,0.972593494283742,2024-05-28 12:38:48.157880,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-12_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,12,0.04580531775653777,0.9823818673769118,2024-05-28 12:50:53.924598,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-12_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,12,0.12831647096177692,0.9724951329724545,2024-05-28 12:50:53.924598,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-13_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,13,0.04482756867014251,0.9827815729332265,2024-05-28 13:03:05.430931,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-13_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,13,0.12946010460266202,0.9721378510573816,2024-05-28 13:03:05.430931,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-14_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,14,0.04381553600105458,0.9830759351090514,2024-05-28 13:15:18.748787,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-14_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,14,0.13321940264873336,0.9726013183593757,2024-05-28 13:15:18.748787,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-15_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,15,0.04262285767713878,0.9836029896940842,2024-05-28 13:27:25.713432,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-15_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,15,0.1351788561722938,0.9728238020272092,2024-05-28 13:27:25.713432,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-16_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,16,0.04367691047477798,0.9834205071914736,2024-05-28 13:39:56.367476,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-16_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,16,0.11725425794881222,0.9726105315109778,2024-05-28 13:39:56.367476,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-17_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,17,0.04284637985530417,0.9835129429463927,2024-05-28 13:52:21.984112,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-17_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,17,0.13219696055326996,0.9727280136634566,2024-05-28 13:52:21.984112,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-18_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,18,0.0421844547017017,0.9837141047297305,2024-05-28 14:04:33.529244,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-18_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,18,0.12779846072301332,0.9727584207469027,2024-05-28 14:04:33.529244,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-19_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,19,0.042149064109241664,0.983782982272829,2024-05-28 14:16:39.118733,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-19_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,19,0.1285184628966441,0.9728992593699494,2024-05-28 14:16:39.118733,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-20_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,20,0.041717019347793795,0.9838412616287001,2024-05-28 14:29:05.409218,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-20_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,20,0.13316495755410368,0.9728818906586741,2024-05-28 14:29:05.409218,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-21_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,21,0.04261150737019146,0.9835484520164691,2024-05-28 14:41:22.181469,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-21_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,21,0.11784330220864925,0.9724866985452593,2024-05-28 14:41:22.181469,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-22_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,22,0.04136719418517854,0.9839389159379982,2024-05-28 14:53:37.511820,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-22_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,22,0.13621914260699575,0.9730455701104528,2024-05-28 14:53:37.512311,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-23_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,23,0.04209176707673753,0.9838079280883604,2024-05-28 15:05:49.514772,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-23_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,23,0.12625996224935457,0.973210359770676,2024-05-28 15:05:49.514772,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-24_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,24,0.040201622391614136,0.98431902037895,2024-05-28 15:18:01.485474,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-24_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,24,0.1335875824894676,0.9727653976966599,2024-05-28 15:18:01.485474,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-25_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,25,0.040529273649520685,0.984309485697784,2024-05-28 15:30:15.754913,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-25_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,25,0.12929536174814185,0.9734658392544449,2024-05-28 15:30:15.754913,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-26_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,26,0.04072218180252076,0.98425609303582,2024-05-28 15:42:20.369993,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-26_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,26,0.13039467033954208,0.9720492238011851,2024-05-28 15:42:20.369993,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-27_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,27,0.04053994463142215,0.9843944555625256,2024-05-28 15:54:19.247423,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-27_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,27,0.1241858734143095,0.9732529054839028,2024-05-28 15:54:19.247423,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-28_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,28,0.04033847257090712,0.9845595609971168,2024-05-28 16:06:23.832288,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-28_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,28,0.1157459780324957,0.9727207894160833,2024-05-28 16:06:23.832288,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-29_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,29,0.03989686700441417,0.9845653035417068,2024-05-28 16:18:29.595902,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-29_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,29,0.12001460438979597,0.9737633119780436,2024-05-28 16:18:29.595902,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-30_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,30,0.03980684189558242,0.9846267947635134,2024-05-28 16:30:36.729562,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-30_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,30,0.12793870712931524,0.9729212425495013,2024-05-28 16:30:36.729562,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-31_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,31,0.04013656973446437,0.9846229308208713,2024-05-28 16:42:39.949220,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-31_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,31,0.12354403490136409,0.9736149228852373,2024-05-28 16:42:39.949220,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-32_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,32,0.03815780254784196,0.9851543073548051,2024-05-28 16:54:42.953559,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-32_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,32,0.1344920112972212,0.9734059511382005,2024-05-28 16:54:42.953559,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-33_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,33,0.038425156670816495,0.9849705730977998,2024-05-28 17:06:43.692156,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-33_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,33,0.14118226886132795,0.9730929197114087,2024-05-28 17:06:43.692156,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-34_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,34,0.03849937175052605,0.9850898701435817,2024-05-28 17:18:50.621383,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-34_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,34,0.1332345540587116,0.9733049063846988,2024-05-28 17:18:50.621383,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-35_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,35,0.03828491317848594,0.9850704301066919,2024-05-28 17:31:00.356494,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-35_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,35,0.12738067348054127,0.9732349001128107,2024-05-28 17:31:00.356494,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-36_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,36,0.03906809479969484,0.9848252609083116,2024-05-28 17:43:09.484822,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-36_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,36,0.12237248121427596,0.9736253356933593,2024-05-28 17:43:09.484822,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-37_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,37,0.0379650906181416,0.9851984370342296,2024-05-28 17:55:14.755642,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-37_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,37,0.11658643404872895,0.9736176431590116,2024-05-28 17:55:14.755642,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-38_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,38,0.0379735081158993,0.9852204329789361,2024-05-28 18:07:15.448146,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-38_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,38,0.12650021702324138,0.9734335221915418,2024-05-28 18:07:15.448146,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-39_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,39,0.03708803856897868,0.9855030771810427,2024-05-28 18:19:15.507342,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-39_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,39,0.1334704590212666,0.9735924293254987,2024-05-28 18:19:15.507342,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-40_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,40,0.037784284121017836,0.9851758025977498,2024-05-28 18:31:22.394762,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-40_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,40,0.12961004794462874,0.9733465523555364,2024-05-28 18:31:22.394762,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-41_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,41,0.03767096084011023,0.9854300872851242,2024-05-28 18:43:23.271080,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-41_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,41,0.13021344755242323,0.9730073599979797,2024-05-28 18:43:23.271581,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-42_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,42,0.03747556036425568,0.9853739038901019,2024-05-28 18:55:23.418484,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-42_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,42,0.1309367778935823,0.9738588898757402,2024-05-28 18:55:23.418484,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-43_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,43,0.0373502161993463,0.9855767521456419,2024-05-28 19:07:24.917525,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-43_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,43,0.1229051728271237,0.9734971145103711,2024-05-28 19:07:24.917525,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-44_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,44,0.036570661443260474,0.9857557316766448,2024-05-28 19:19:30.340709,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-44_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,44,0.1347481943877687,0.9731990682667693,2024-05-28 19:19:30.340709,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-45_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,45,0.036869518307447786,0.9857442815201455,2024-05-28 19:31:33.709299,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-45_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,45,0.12906230238149874,0.9730793867440058,2024-05-28 19:31:33.709299,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-46_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,46,0.037031831049518765,0.9856468135184813,2024-05-28 19:43:45.135312,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-46_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,46,0.12138566340857732,0.9734923579775056,2024-05-28 19:43:45.135312,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-47_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,47,0.036062018486444615,0.9860165565381579,2024-05-28 19:55:52.167319,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-47_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,47,0.13205292383670517,0.9735157407563308,2024-05-28 19:55:52.167319,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-48_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,48,0.037630737635909635,0.985485857310089,2024-05-28 20:07:55.067310,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-48_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,48,0.142475963394551,0.9741498434132544,2024-05-28 20:07:55.067810,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-49_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,49,0.03596303320844437,0.9860178102332569,2024-05-28 20:20:00.289411,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-49_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,49,0.13825851755120375,0.9736922481142246,2024-05-28 20:20:00.289411,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-50_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,50,0.03681273234190807,0.9858559515972772,2024-05-28 20:32:03.972572,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-50_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,50,0.12474036592576684,0.9740383332351156,2024-05-28 20:32:03.972572,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-51_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,51,0.035517977647607724,0.9861376914310898,2024-05-28 20:44:12.020921,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-51_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,51,0.13178881968006267,0.9738921435125936,2024-05-28 20:44:12.020921,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-52_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,52,0.036215934442690854,0.9860838446442778,2024-05-28 20:56:12.104257,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-52_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,52,0.10643913201558211,0.9736444407495948,2024-05-28 20:56:12.104257,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-53_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,53,0.03682817890981008,0.9856376553339867,2024-05-28 21:08:18.441061,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-53_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,53,0.12621895374894818,0.9735562712570709,2024-05-28 21:08:18.441061,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-54_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,54,0.03534292563905611,0.9861695306289734,2024-05-28 21:20:20.366518,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-54_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,54,0.13446881615452405,0.9738624888452992,2024-05-28 21:20:20.366518,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-55_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,55,0.03571338720940977,0.986003742066401,2024-05-28 21:32:34.215294,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-55_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,55,0.1287136302281428,0.9729316343110189,2024-05-28 21:32:34.215294,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-56_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,56,0.03562448759724657,0.9860608822287344,2024-05-28 21:44:38.863340,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-56_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,56,0.13450449608479112,0.9735973121379984,2024-05-28 21:44:38.863340,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-57_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,57,0.03577671865584693,0.9861379844774697,2024-05-28 21:56:39.106625,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-57_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,57,0.14246268980184987,0.9738738277040679,2024-05-28 21:56:39.106625,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-58_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,58,0.03542067250792109,0.9862421032734245,2024-05-28 22:08:47.348403,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-58_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,58,0.12896848502588973,0.973789272966056,2024-05-28 22:08:47.348403,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-59_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,59,0.03538444110533646,0.9861128310065567,2024-05-28 22:20:50.154345,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-59_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,59,0.13482495638288974,0.9742023020777204,2024-05-28 22:20:50.154345,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-60_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,60,0.035067834566378395,0.9862824563419137,2024-05-28 22:32:53.700035,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-60_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,60,0.13538208115115313,0.9737579556169181,2024-05-28 22:32:53.700035,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-61_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,61,0.03574064259886718,0.9861696684189932,2024-05-28 22:45:02.274422,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-61_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,61,0.14552667689838863,0.9745284928946663,2024-05-28 22:45:02.274422,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-62_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,62,0.03502870761250428,0.9863353657684552,2024-05-28 22:57:04.348217,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-62_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,62,0.12766660564751686,0.9734123072130917,2024-05-28 22:57:04.348217,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-63_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,63,0.034628698548275404,0.9864984276412202,2024-05-28 23:09:08.011112,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-63_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,63,0.1380595435721575,0.9736043206576648,2024-05-28 23:09:08.011112,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-64_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,64,0.03512419756525603,0.9864741998863537,2024-05-28 23:21:13.190310,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-64_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,64,0.1295676084088788,0.9738570430361,2024-05-28 23:21:13.190310,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-65_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,65,0.0342833943765341,0.9866354510818282,2024-05-28 23:33:17.176547,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-65_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,65,0.12701326356859524,0.9736792570969144,2024-05-28 23:33:17.176547,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-66_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,66,0.034280659807646066,0.9866448518543828,2024-05-28 23:45:19.052302,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-66_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,66,0.11836826226449218,0.9741122015591317,2024-05-28 23:45:19.052302,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-67_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,67,0.034631406923901105,0.9864643488703556,2024-05-28 23:57:20.362798,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-67_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,67,0.131390967687335,0.9738774477202321,2024-05-28 23:57:20.362798,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-68_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,68,0.034354715836449085,0.9866525137557144,2024-05-29 00:09:32.218740,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-68_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,68,0.13244435704987625,0.9732678380505803,2024-05-29 00:09:32.218740,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-69_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,69,0.03481641173990523,0.9864341553898793,2024-05-29 00:21:37.510745,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-69_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,69,0.12233175938659958,0.9736957681590113,2024-05-29 00:21:37.510745,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-70_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,70,0.034358425966844505,0.9867558349221235,2024-05-29 00:33:43.481916,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-70_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,70,0.1236156235872527,0.9740174918339176,2024-05-29 00:33:43.481916,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-71_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,71,0.03449453374767744,0.9866240649685758,2024-05-29 00:45:52.305543,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-71_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,71,0.12702358294788202,0.973318718219626,2024-05-29 00:45:52.305543,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-72_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,72,0.03409751203460456,0.9867387023828735,2024-05-29 00:57:51.644265,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-72_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,72,0.12774084817019998,0.9735587494948816,2024-05-29 00:57:51.644265,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-73_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,73,0.033254753228940295,0.9870525162398156,2024-05-29 01:09:54.204655,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-73_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,73,0.13366585970226,0.9738514235924035,2024-05-29 01:09:54.204655,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-74_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,74,0.033773956791496286,0.9868980051110384,2024-05-29 01:21:56.824927,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-74_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,74,0.13228090811854004,0.9742196865739498,2024-05-29 01:21:56.824927,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-75_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,75,0.034368850447908224,0.9864458888892329,2024-05-29 01:33:54.129146,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-75_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,75,0.1429763470148138,0.9735696095433729,2024-05-29 01:33:54.129146,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-76_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,76,0.03320706553612088,0.9869625645866446,2024-05-29 01:46:07.994693,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-76_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,76,0.1333129202740283,0.9737681790055899,2024-05-29 01:46:07.994693,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-77_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,77,0.03395556120774953,0.9868652013830245,2024-05-29 01:58:10.064796,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-77_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,77,0.1287868242863373,0.9735958283523045,2024-05-29 01:58:10.064796,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-78_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,78,0.032881892902927624,0.9871482589551872,2024-05-29 02:10:10.254578,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-78_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,78,0.12916358527707353,0.9735725139749467,2024-05-29 02:10:10.254578,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-79_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,79,0.033655095403119686,0.9869508893084241,2024-05-29 02:22:32.533792,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-79_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,79,0.12307915624516116,0.9738873133166079,2024-05-29 02:22:32.533792,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-80_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,80,0.033718999240189104,0.9868917482797603,2024-05-29 02:34:44.511172,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-80_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,80,0.13601594746357698,0.9737260752710797,2024-05-29 02:34:44.511172,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-81_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,81,0.032990463029901204,0.9872026200286931,2024-05-29 02:46:51.780428,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-81_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,81,0.13129344648091476,0.9741653179300249,2024-05-29 02:46:51.780428,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-82_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,82,0.0337394704244178,0.9869437630415346,2024-05-29 02:58:57.114685,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-82_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,82,0.13092342877844831,0.9739199986951115,2024-05-29 02:58:57.114685,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-83_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,83,0.03345406750351818,0.9869092689599066,2024-05-29 03:11:00.825661,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-83_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,83,0.13777508346889777,0.9738736172380125,2024-05-29 03:11:00.826153,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-84_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,84,0.03330387867911643,0.9871412646561999,2024-05-29 03:22:58.129506,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-84_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,84,0.13264158643192034,0.9734673861799559,2024-05-29 03:22:58.129506,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-85_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,85,0.03274526670153159,0.9872571809947595,2024-05-29 03:35:03.607343,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-85_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,85,0.12861102051302342,0.9744465742440048,2024-05-29 03:35:03.607343,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-86_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,86,0.03266714157022844,0.9873948079944604,2024-05-29 03:47:08.675870,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-86_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,86,0.1338421844170782,0.9740440526501892,2024-05-29 03:47:08.675870,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-87_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,87,0.032203159638901135,0.987411657190852,2024-05-29 03:59:06.370300,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-87_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,87,0.13522818063963846,0.9738620731748386,2024-05-29 03:59:06.370300,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-88_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,88,0.03355629652085609,0.9871531475897988,2024-05-29 04:11:08.536848,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-88_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,88,0.11410561712571131,0.9738872554384435,2024-05-29 04:11:08.536848,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-89_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,89,0.03359699969932094,0.9869252448392763,2024-05-29 04:23:13.593151,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-89_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,89,0.12847548104513534,0.9736891858331083,2024-05-29 04:23:13.593151,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-90_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,90,0.03281698665775607,0.9871187796539649,2024-05-29 04:35:14.750065,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-90_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,90,0.134084931782503,0.9740936489762929,2024-05-29 04:35:14.750065,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-91_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,91,0.0317464175879132,0.9876335651052006,2024-05-29 04:47:17.009245,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-91_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,91,0.13231360457199304,0.9741790087469702,2024-05-29 04:47:17.009245,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-92_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,92,0.03245250849069551,0.9874380760010941,2024-05-29 04:59:20.570627,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-92_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,92,0.11751327733107811,0.9745631303458376,2024-05-29 04:59:20.570627,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-93_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,93,0.032301744242940564,0.9871927651312833,2024-05-29 05:11:20.021193,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-93_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,93,0.1388978575685479,0.9743497335499732,2024-05-29 05:11:20.021193,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-94_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,94,0.03267051976667169,0.9873369420086445,2024-05-29 05:23:25.045623,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-94_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,94,0.14660497932847397,0.973924760489629,2024-05-29 05:23:25.045623,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-95_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,95,0.03289498658502839,0.9871791472078704,2024-05-29 05:35:28.867565,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-95_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,95,0.12299759645849981,0.973631454993938,2024-05-29 05:35:28.867565,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-96_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,96,0.032018051648198584,0.9874482705217847,2024-05-29 05:47:36.934805,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-96_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,96,0.1303490447291928,0.974031703554351,2024-05-29 05:47:36.934805,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-97_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,97,0.032155560367682946,0.987406132005166,2024-05-29 05:59:43.542079,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-97_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,97,0.14112398505174747,0.9739645122659615,2024-05-29 05:59:43.542079,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-98_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,98,0.032283741660972844,0.9873521299619934,2024-05-29 06:11:45.832659,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-98_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,98,0.14428910124115646,0.9735480262493263,2024-05-29 06:11:45.833158,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-99_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,99,0.032274348739037124,0.9873487764246328,2024-05-29 06:23:43.801070,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-99_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,99,0.13037680034878954,0.9742221332418509,2024-05-29 06:23:43.801070,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-100_Images-1258_Batch-1__random_distortion.pth,random_7_operations,train,100,0.03176081121791101,0.9875979279486284,2024-05-29 06:35:51.252264,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
+ORCA__Size-640x640_Epoch-100_Images-1258_Batch-1__random_distortion.pth,random_7_operations,test,100,0.13161584150933275,0.9739108434216728,2024-05-29 06:35:51.252264,[None 'horizontal_flip' 'vertical_flip' 'rotation' 'transpose' 'elastic_transformation' 'grid_distortion' 'optical_distortion']
+
